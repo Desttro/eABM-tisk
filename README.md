@@ -1,1 +1,1 @@
-Jedoduchá aplikace vytvořená pro mého kolegu v práci, abych mu ulehčil práci. Musí přepíjnat mezi dvěmi tiskárnami (jako výchozí), tak jsem udělal malé okno, které je vždy nahoře a umožňuje rychlé přepnutí výchozí tiskárny + ukazuje, která je právě aktivní. Vyžaduje .NET Framework 4.5.
+Jedoduchá aplikace vytvořená pro mého kolegu, abych mu ulehčil práci. Musí přepíjnat mezi dvěmi tiskárnami (jako výchozí), tak jsem udělal malé okno, které je vždy nahoře a umožňuje rychlé přepnutí výchozí tiskárny + ukazuje, která je právě aktivní. Vyžaduje .NET Framework 4.5.
